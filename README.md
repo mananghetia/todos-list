@@ -7,5 +7,5 @@ Concept of Reacts Hooks, States, Router, Props and Function based componets is u
 ## 🔗 [Link](https://mananghetia.github.io/todos-list/)
 ## Screenshots
 
-![App Screenshot](https://raw.github.com//mananghetia/todos-list/blob/main/public/website.png)
+![App Screenshot](/public/website.png?raw=true "Optional Title")
 
